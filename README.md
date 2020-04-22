@@ -14,7 +14,7 @@ Questa RESTful API mette a disposizione tutti gli stati svizzeri, tutte le local
 This RESTful API provides all swiss states, all locations and their corresponding ZIP codes. The data comes from the Swiss federal statistical office (Here). Furthermore, it offers entry points that can be used for ZIP-code and location autocompletion in your html forms !
 
 # Example of use
-Location autocompletion. Give it a try here: https://github.com/JobinJohan/swiss_locations_api
+Location autocompletion. Give it a try here: https://jobinjohan.github.io/swiss_locations_api
 
 ```html
 <!DOCTYPE html>
