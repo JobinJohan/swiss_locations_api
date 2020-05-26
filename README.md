@@ -85,3 +85,5 @@ Location autocompletion. Give it a try here: https://jobinjohan.github.io/swiss_
 ```javascript
 
 ```
+
+Tags: Codes postaux suisse, codes postaux suisse, code postal suisse, code postal suisse API, codes postaux Suisse api
